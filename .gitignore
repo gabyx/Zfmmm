@@ -1,6 +1,8 @@
+*.swp
+*.undo
 .DS_Store
 Project File Backups
-Undo Data
-displayState
+Undo Data*
+DisplayState.plist
 documentData.orig
 windowImage.jpg
